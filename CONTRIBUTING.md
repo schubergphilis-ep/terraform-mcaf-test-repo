@@ -25,8 +25,9 @@ Please:
   - `fix`: for bug fixes
   - `chore`: for non-functional changes (e.g., CI, docs, refactoring)
 
-  > To indicate a **breaking change**, append `!` to the type:
-  > Example: `feat!: remove deprecated module input`
+> [!NOTE]
+> To indicate a **breaking change**, append `!` to the type:
+> Example: `feat!: remove deprecated module input`
 
 - **Small PRs**: Smaller, focused pull requests are easier to review and merge. Aim to keep PRs limited in scope.
 
